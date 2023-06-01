@@ -36,11 +36,12 @@ pip install --upgrade tensorflow<br>
 pip install pillow<br>
 pip install streamlit<br>
 
-To run the emotion detection test file, execute the following command:<br>
+Emotion Detection test file을 실행하기 위해서 다음 명령어를 입력하면 됩니다. <br>
 
 streamlit run streamlit_app.py<br><br>
-This command will start a Streamlit web application where you can interact with the trained emotion detector.
-The application will allow you to upload an image and detect the emotion portrayed in the image.<br><br>
+
+이 명령어는 Emotion Detection을 할 수 있는 Streamlit web application을 실행시킵니다.
+이 application에서 동영상 파일을 업로드 하여 emotion detection을 하면 됩니다.<br><br>
 
 streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담긴 임의의 동영상을 선택합니다<br>
 ![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/12fea0d9-4073-4993-9a53-59501b3542ce)

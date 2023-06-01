@@ -6,8 +6,11 @@
   
   
 ## Topic Introduction:
-This project focuses on training an emotion detector using Convolutional Neural Networks (CNN). It involves the use of popular deep learning libraries such as Keras and TensorFlow. The detector is trained on the FER2013 dataset, which contains facial expression images representing different emotions.
- 출처 :  https://github.com/mr-mamun-50/Emotion_Detection-Deep_learning.git
+해당 주제는 사람의 표정을 딥러닝하여 사람의 감정을 표현하는 것을 목표로 삼고 있는 Emotion Detection입니다.<br>
+Emotion Detection을 위해 사용된 주요 기술로는 CNN(Convolutional Neural Networks)이 있습니다.<br>
+Emotion Detection에서 CNN은 밝기, 경계와 같은 특징을 바탕으로 사람의 표정을 구분합니다.<br>
+이 소스코드에서는 사람의 표정을 angry, disgust, fear, happy, neutral, sad, surprise로 구분합니다.<br>
+ 내가 사용한 소스코드 :  https://github.com/mr-mamun-50/Emotion_Detection-Deep_learning.git<br>
   
   
 ## Results:
@@ -24,7 +27,7 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d
   
 ## Installation : 
 이 환경은 windows 에서 실행하였습니다.<br>
-Before getting started, make sure to install the necessary packages by running the following commands in your terminal:
+시작하기 전에, terminal안에 설치되어야하는 package들이며, 만약 없을 경우 다음의 명령어를 입력하면 됩니다.
 
 pip install numpy<br>
 pip install opencv-python<br>
@@ -39,8 +42,8 @@ streamlit run streamlit_app.py<br><br>
 This command will start a Streamlit web application where you can interact with the trained emotion detector.
 The application will allow you to upload an image and detect the emotion portrayed in the image.<br><br>
 
-streamlit 에 들어간 뒤, 사람의 표정이 담긴 임의의 동영상을 선택합니다<br>
-![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/1ad739c9-f83c-4a8e-aa3f-f3277fbe4f28)
+streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담긴 임의의 동영상을 선택합니다<br>
+![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/12fea0d9-4073-4993-9a53-59501b3542ce)
 
 결과가 나오는 것을 확인 할 수 있습니다.
 ![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/00a74244-8e4f-4a88-adca-6ad63564afad)

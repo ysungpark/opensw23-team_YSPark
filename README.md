@@ -9,7 +9,7 @@
 해당 주제는 사람의 표정을 딥러닝하여 사람의 감정을 표현하는 것을 목표로 삼고 있는 Emotion Detection입니다.<br>
 Emotion Detection을 위해 사용된 주요 기술로는 CNN(Convolutional Neural Networks)이 있습니다.<br>
 Emotion Detection에서 CNN은 밝기, 경계와 같은 특징을 바탕으로 사람의 표정을 구분합니다.<br>
-이 소스코드에서는 사람의 표정을 angry, disgust, fear, happy, neutral, sad, surprise로 구분합니다.<br>
+이 소스코드에서는 사람의 표정을 angry, disgust, fear, happy, neutral, sad, surprise로 구분합니다.<br><br><br>
  내가 사용한 소스코드 :  https://github.com/mr-mamun-50/Emotion_Detection-Deep_learning.git<br>
   
   

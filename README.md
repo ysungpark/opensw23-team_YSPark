@@ -22,7 +22,7 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d
   undefined
   
   
-##Installation : 
+## Installation : 
 이 환경은 windows 에서 실행하였습니다.<br>
 Before getting started, make sure to install the necessary packages by running the following commands in your terminal:
 

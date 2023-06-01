@@ -23,19 +23,19 @@ Analysis/Visualization :
   
   
 Installation : 
-이 환경은 windows 에서 실행하였습니다.
+이 환경은 windows 에서 실행하였습니다.<br>
 Before getting started, make sure to install the necessary packages by running the following commands in your terminal:
 
-pip install numpy
-pip install opencv-python
-pip install keras
-pip install --upgrade tensorflow
-pip install pillow
-pip install streamlit
+pip install numpy<br>
+pip install opencv-python<br>
+pip install keras<br>
+pip install --upgrade tensorflow<br>
+pip install pillow<br>
+pip install streamlit<br>
 
-To run the emotion detection test file, execute the following command:
+To run the emotion detection test file, execute the following command:<br>
 
-streamlit run streamlit_app.py
+streamlit run streamlit_app.py<br><br>
 This command will start a Streamlit web application where you can interact with the trained emotion detector. The application will allow you to upload an image and detect the emotion portrayed in the image.
   
   

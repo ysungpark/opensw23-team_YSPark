@@ -1,16 +1,16 @@
 ## opensw23-team_YSPark
 
-##Team introduction(Individual team)
+## Team introduction(Individual team)
   구성원 : 1
   박윤성 / 202011296  / leader
   
   
-##Topic Introduction:
+## Topic Introduction:
 This project focuses on training an emotion detector using Convolutional Neural Networks (CNN). It involves the use of popular deep learning libraries such as Keras and TensorFlow. The detector is trained on the FER2013 dataset, which contains facial expression images representing different emotions.
   https://github.com/mr-mamun-50/Emotion_Detection-Deep_learning.git
   
   
-##Results:
+## Results:
   
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d-4473-bbc9-9b02e2f5ae83
 
@@ -18,7 +18,7 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d
 
   
   
-##Analysis/Visualization : 
+## Analysis/Visualization : 
   undefined
   
   
@@ -39,5 +39,5 @@ streamlit run streamlit_app.py<br><br>
 This command will start a Streamlit web application where you can interact with the trained emotion detector. The application will allow you to upload an image and detect the emotion portrayed in the image.
   
   
-##Presentation :
+## Presentation :
   currently empty

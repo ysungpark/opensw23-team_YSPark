@@ -6,6 +6,7 @@ Team introduction(Individual team)
   
   
 Topic Introduction:
+This project focuses on training an emotion detector using Convolutional Neural Networks (CNN). It involves the use of popular deep learning libraries such as Keras and TensorFlow. The detector is trained on the FER2013 dataset, which contains facial expression images representing different emotions.
   https://github.com/mr-mamun-50/Emotion_Detection-Deep_learning.git
   
   
@@ -22,6 +23,7 @@ Analysis/Visualization :
   
   
 Installation : 
+이 환경은 windows 에서 실행하였습니다.
 Before getting started, make sure to install the necessary packages by running the following commands in your terminal:
 
 pip install numpy

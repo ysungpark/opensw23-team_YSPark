@@ -37,7 +37,9 @@ To run the emotion detection test file, execute the following command:<br>
 
 streamlit run streamlit_app.py<br><br>
 This command will start a Streamlit web application where you can interact with the trained emotion detector. The application will allow you to upload an image and detect the emotion portrayed in the image.
-  
+![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/311914d6-5ed1-4a35-95f9-5cddacd11db6)
+![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/1ad739c9-f83c-4a8e-aa3f-f3277fbe4f28)
+![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/00a74244-8e4f-4a88-adca-6ad63564afad)
   
 ## Presentation :
   currently empty

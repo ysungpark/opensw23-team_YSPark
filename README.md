@@ -15,7 +15,10 @@ Emotion Detection에서 CNN은 밝기, 경계와 같은 특징을 바탕으로 �
   
 ## Results:
   
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d-4473-bbc9-9b02e2f5ae83
+원본-놀라움
+![Uploading surprised.gif…]()
+적용-놀라움
+![Uploading surprised- green.gif…]()
 
 
 
@@ -29,7 +32,6 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d
 
 
 이 환경은 windows 에서 실행하였습니다.<br>
-git clone https://github.com/ysungpark/opensw23-team_YSPark.git를 해줍니다.
 시작하기 전에, terminal안에 설치되어야하는 package들이며, 만약 없을 경우 다음의 명령어를 입력하면 됩니다.
 
 pip install numpy<br>

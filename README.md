@@ -16,7 +16,8 @@ Emotion Detection에서 CNN은 밝기, 경계와 같은 특징을 바탕으로 �
 ## Results:
   
 원본-놀라움
-<img src="C:\Users\royal\Videos\opensw\surprised.gif">
+![surprised](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/76c6cdc0-e1a0-4e39-b6ee-8ef94b1f46a4)
+
 적용-놀라움
 ![Uploading surprised- green.gif…]()
 

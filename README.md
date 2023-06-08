@@ -26,7 +26,10 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/bce8494d-d77d
   
   
 ## Installation : 
+
+
 이 환경은 windows 에서 실행하였습니다.<br>
+git clone https://github.com/ysungpark/opensw23-team_YSPark.git를 해줍니다.
 시작하기 전에, terminal안에 설치되어야하는 package들이며, 만약 없을 경우 다음의 명령어를 입력하면 됩니다.
 
 pip install numpy<br>

@@ -32,8 +32,10 @@ Emotion Detection에서 CNN은 밝기, 경계와 같은 특징을 바탕으로 �
 ## Installation : 
 
 
-이 환경은 windows 에서 실행하였습니다.<br>
-시작하기 전에, terminal안에 설치되어야하는 package들이며, 만약 없을 경우 다음의 명령어를 입력하면 됩니다.
+*이 환경은 windows 에서 실행하였습니다.<br>
+
+우선 git clone을 통해 repository를 복사합니다.
+시작하기 전에, 다음 package들은 terminal안에 설치되어야하는 package들이며, 만약 없을 경우 다음의 명령어를 입력하면 됩니다.
 
 pip install numpy<br>
 pip install opencv-python<br>

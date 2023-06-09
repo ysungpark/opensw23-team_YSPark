@@ -74,6 +74,5 @@ streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담
 ![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/00a74244-8e4f-4a88-adca-6ad63564afad)
   
 ## Presentation :
-
-<iframe width="956" height="538" src="https://www.youtube.com/watch?v=kmwdVX5cqPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1576" height="899" src="https://www.youtube.com/embed/kmwdVX5cqPI" title="건국대학교 오픈SW입문 팀프로젝트/ 20조" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -35,16 +35,22 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/c0f36c04-6d16
   
   
 ## Analysis/Visualization : 
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/b1d046ce-0950-4dbe-bb04-6483d6b6472a
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/e243864a-92a7-47df-9e5e-65addf15fe2a
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/75f42375-5711-4805-bdf4-c139c96243c8
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/17fc3c9d-2632-4c17-a412-99f63aab3ca0
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/b1d046ce-0950-4dbe-bb04-6483d6b6472a (45도 각도 원본)
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/e243864a-92a7-47df-9e5e-65addf15fe2a (옆모습 원본)
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/75f42375-5711-4805-bdf4-c139c96243c8 (45도 각도 감정인식)
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/17fc3c9d-2632-4c17-a412-99f63aab3ca0 (옆모습 감정인식)
 <br><br>
 분석결과 사람의 얼굴표정은 약 45도 정도까지만 분석이 되고, 측면부의 경우에는 감정인식이 잘 안되는 것을 확인 할 수 있었습니다.
 
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/a1b77224-9684-468e-aa54-7b3b4422876f
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/a1b77224-9684-468e-aa54-7b3b4422876f (잠만보 인형 감정인식)
 <br><br>
 잠만보 인형과 같이 인간이 아닌 경우 또한 감정인식이 잘 안되는 것을 확인 할 수 있었습니다.
+<br><br>
+개선되었으면 좋겠는 점에 대해 설명하겠습니다.
+1. 다양한 감정을 표현 할 수 있었으면 좋겠습니다. 이 소스코드에서는 6개의 감정만을 사용하는데, 더 다양한 감정을 사용한다면 더 좋았을 것입니다.
+2. 인간 뿐만 아니라 다양한 생명체의 감정을 인식할 수  있었으면 좋겠습니다. 또한 얼굴의 일부분만 나오더라도, 감정을 유추할 수 있다면 더 좋았을 것입니다.
+3. 감정의 변화를 기록할 수 있었으면 좋겠습니다. 사람의 감정의 변화를 기록한다면, 좀 더 응용할 수 있는 범위가 늘어날 것입니다.
+
   
   
 ## Installation : 

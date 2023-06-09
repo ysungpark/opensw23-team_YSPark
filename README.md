@@ -39,6 +39,11 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/b1d046ce-0950
 
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/e243864a-92a7-47df-9e5e-65addf15fe2a
 
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/75f42375-5711-4805-bdf4-c139c96243c8
+
+
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/17fc3c9d-2632-4c17-a412-99f63aab3ca0
+
 
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/7a038285-fde1-4384-8bd1-95fc0533760a
 잠만보 인형과 같이 인간이 아닌 경우는 적용이 안됨

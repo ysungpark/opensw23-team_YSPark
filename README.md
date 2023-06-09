@@ -36,17 +36,15 @@ https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/c0f36c04-6d16
   
 ## Analysis/Visualization : 
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/b1d046ce-0950-4dbe-bb04-6483d6b6472a
-
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/e243864a-92a7-47df-9e5e-65addf15fe2a
-
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/75f42375-5711-4805-bdf4-c139c96243c8
-
-
 https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/17fc3c9d-2632-4c17-a412-99f63aab3ca0
+<br><br>
+분석결과 사람의 얼굴표정은 약 45도 정도까지만 분석이 되고, 측면부의 경우에는 감정인식이 잘 안되는 것을 확인 할 수 있었습니다.
 
-
-https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/7a038285-fde1-4384-8bd1-95fc0533760a
-잠만보 인형과 같이 인간이 아닌 경우는 적용이 안됨
+https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/a1b77224-9684-468e-aa54-7b3b4422876f
+<br><br>
+잠만보 인형과 같이 인간이 아닌 경우 또한 감정인식이 잘 안되는 것을 확인 할 수 있었습니다.
   
   
 ## Installation : 

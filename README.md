@@ -75,4 +75,3 @@ streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담
   
 ## Presentation :
 <iframe width="1576" height="899" src="https://www.youtube.com/embed/kmwdVX5cqPI" title="건국대학교 오픈SW입문 팀프로젝트/ 20조" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-

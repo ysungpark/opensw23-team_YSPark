@@ -74,4 +74,4 @@ streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담
 ![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/00a74244-8e4f-4a88-adca-6ad63564afad)
   
 ## Presentation :
-{% include video id="kmwdVX5cqPI" provider="youtube" %}
+[{% include video id="kmwdVX5cqPI" provider="youtube" %}](https://youtu.be/kmwdVX5cqPI)

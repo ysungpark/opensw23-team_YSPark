@@ -74,4 +74,64 @@ streamlit 에 들어간 뒤, sample 파일 안에 있는 사람의 표정이 담
 ![image](https://github.com/ysungpark/opensw23-team_YSPark/assets/129364108/00a74244-8e4f-4a88-adca-6ad63564afad)
   
 ## Presentation :
-  currently empty
+다 :)
+
+Email
+GitHub
+📂 전체 글 수 871 개
+C/C++/C#
+C ++ (164)
+C++ STL & 표준 (13)
+C++ 연습 문제 패키지 (33)
+C++ Boost.Asio 네트워크 (4)
+C # (31)
+C (2)
+Coding Test
+알고리즘 구현 (with C++) (15)
+프로그래머스 (150)
+백준 (35)
+코딩 테스트 강의 (3)
+코드업 (12)
+Unity
+유니티 강의1 (66)
+유니티 강의2 (38)
+유니티 강의3 (61)
+유니티 강의4 (15)
+내 유니티 문서 (51)
+UE4
+언리얼 블루프린트 강의 1 (40)
+언리얼 블루프린트 강의 2 (5)
+언리얼 C++ 강의 1 (3)
+언리얼 C++ 책 (3)
+내 언리얼 문서 (12)
+에러 메모 (1)
+CS
+알고리즘 강의1 (2)
+알고리즘 강의2 (15)
+C 자료구조 강의 1(1)
+C 자료구조 강의 2(11)
+네트워크 (3)
+Server
+C# 유니티 서버 (2)
+DB
+MySQL (7)
+프로그래머스 SQL (29)
+etc
+Blog Dev (18)
+디자인 패턴 (15)
+Blender (1)
+Git & Github (6)
+비주얼 스튜디오 (1)
+블록체인 암호화폐 (3)
+
+
+[Github 블로그] 유튜브 동영상 삽입하기
+ Date: 2020.05.31    Updated: 2020.05.31
+ 카테고리: Blog
+
+ 태그: HTML jekyll Liquid minimal-mistake Blog
+
+첫번째 방법. HTML 태그 사용 : <iframe> 유튜브 영상에 마우스 오른쪽 클릭을 하면 소스 코드 복사라는 항목이 나오는데 그것을 눌러 소스를 복사한 후 포스트 파일에 붙여넣으면 끝! HTML의 iframe태그로 이루어진 코드가 나온다.
+
+<iframe width="956" height="538" src="https://www.youtube.com/watch?v=kmwdVX5cqPI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=kmwdVX5cqPI
